@@ -8,11 +8,11 @@ I'm a Computer Systems Engineer (B.S.) with 2+ years of experience in software d
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25 style="margin-right: 10px;"> Professional experience in:
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,django,fastapi,vue,php,rails,spring,linux,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,php,rails,django,fastapi,spring,postgresql,docker,git,linux)](https://skillicons.dev)
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25 style="margin-right: 10px;"> Actually learning:
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,angular)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="margin-right: 10px;"> Github stats:
 

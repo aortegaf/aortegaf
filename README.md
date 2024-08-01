@@ -4,7 +4,7 @@
 
 Welcome! You'll find some of my learning process, personal projects and hopefully some useful code for public use.
 
-I'm a Computer Systems Engineer (B.S.) with 2+ years of experience in software development, a growth-minded individual, fast learner and always considered as a trusted partner.
+I'm a Computer Systems Engineer (B.S.) with 3+ years of experience in software development, a growth-minded individual, fast learner and always considered as a trusted partner.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25 style="margin-right: 10px;"> Professional experience in:
 
